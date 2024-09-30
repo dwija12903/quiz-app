@@ -36,7 +36,7 @@ To get this project up and running locally, follow these steps:
    ```
 2. **Navigate into the project directory:**
    ```bash
-   cd js-quiz-app
+   cd quiz-app
    ```
 3. **Open the project in your preferred code editor.**
 
